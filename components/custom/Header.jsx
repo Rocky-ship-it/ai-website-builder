@@ -12,7 +12,7 @@ function Header() {
                             <Code className="h-5 w-5 text-white" />
                         </div>
                         <h1 className="text-xl font-bold text-white">
-                            AI Powered Website Builder
+                            ROCKYZEN-AI 
                         </h1>
                     </div>
 
